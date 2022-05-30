@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: dodgerblue;
+    color: white;
+    margin: 0;
+}
+
+header > nav > ul > li > a {
+    color: white;
+}
+
+header > nav > ul {
+    list-style-type: none;
+}
+
+
+footer {
+    background-color: dodgerblue;
+    color: white;
+    margin: 0;
+    padding: 15px;
+    text-align:center;
+}
